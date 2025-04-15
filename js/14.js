@@ -32,5 +32,5 @@ console.log(meses)
 
 //Rest operator/Spread operator
 const nuevoArreglo=[...meses,"junio"]//Esto es como hacer un push al final del arreglo solo que no se modifican los valores opriginales
-const nuevoArregloo=["junio",...meses]//Asi se agrega al final
+const nuevoArregloo=["junio",...meses]//Asi se agrega al principio
 console.log(nuevoArreglo)

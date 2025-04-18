@@ -1,11 +1,14 @@
 //Funciones
 
 //Declaracion de funcion
-function suma(){
-    console.log(10+10)
+function suma(numero1,numero2){//Numero 1 y 2 son parametros
+    console.log(numero1+numero2);
 }
 
-suma();
+suma(10,10);//Argumentos o valores reales
+suma(3,3);
+suma(5,5);
+suma(2,2);
 
 //Expresion de la funcion
 const suma2=function(){

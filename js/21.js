@@ -25,7 +25,7 @@ const carrito=[
     {nombre: "Celular", precio: 500},
     {nombre: "Bocinas", precio: 300},
     {nombre: "Laptopo", precio: 800},
-]
+];
 
 //forEach
 meses.forEach((mes)=>{
